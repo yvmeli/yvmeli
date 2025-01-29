@@ -16,6 +16,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
 </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 <!-- Progress Bars con estilo elegante -->
 ```diff
 ⋆ DEVELOPMENT SKILLS ⋆
