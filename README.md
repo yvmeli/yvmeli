@@ -1,73 +1,22 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil GitHub</title>
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #30363d;
-            border-radius: 10px;
-            background-color: #161b22;
-        }
-        .title {
-            font-size: 24px;
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .stats, .languages {
-            display: flex;
-            justify-content: space-between;
-            padding: 10px;
-            border-radius: 8px;
-            background-color: #21262d;
-            margin-top: 10px;
-        }
-        .social-icons {
-            margin-top: 20px;
-        }
-        .social-icons a {
-            margin: 5px;
-            text-decoration: none;
-            color: #58a6ff;
-            font-size: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1 class="title">¡Hola, soy [Tu Nombre]! 👋</h1>
-        <div class="stats">
-            <div>
-                ⭐ Estrellas: <strong>15</strong><br>
-                🔄 Commits: <strong>31</strong><br>
-                🔥 PRs: <strong>27</strong><br>
-            </div>
-            <div>
-                ❓ Issues: <strong>7</strong><br>
-                🤝 Contribuciones: <strong>0</strong><br>
-            </div>
-        </div>
-        <div class="languages">
-            <p>Lenguajes más usados:</p>
-            <p>C# 44.54% | Vue 20.38% | JavaScript 18.05% | HTML 11.57% | TypeScript 2.86% | Java 2.60%</p>
-        </div>
-        <div class="social-icons">
-            <a href="#">LinkedIn</a>
-            <a href="#">GitHub</a>
-            <a href="#">Gmail</a>
-        </div>
-    </div>
-</body>
-</html>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+coding+space+✦;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" style="margin-bottom: 30px;"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
+    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00&card_width=450" />
+  </div>
+  <div align="center" style="margin-bottom: 30px;">
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
+    </p>
+    <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
+  </div>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px;">
+<h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
+<p align="center" style="font-size: 1.1em;">
+  <a href="https://github.com/yvmeli" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white" style="margin: 0 10px;"/>
+  </a>
+  <a href="https://linkedin.com/in/yameli" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white" style="margin: 0 10px;"/>
+  </a>
+</p>
