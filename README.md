@@ -5,13 +5,10 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00" />
 </div>
   
-  
-  <div align="center" style="margin-bottom: 30px; margin-top: 30px;">
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
-    </p>
-    <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
-  </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
+</p>
+<p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
   
 <h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
 <p align="center" style="font-size: 1.1em;">
