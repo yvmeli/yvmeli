@@ -1,60 +1,58 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&duration=4000&pause=1000&color=FF69B4&background=FFF0F5&center=true&vCenter=true&width=500&lines=✨+HELLO+WORLD!+✨;🌸+LOADING+PROFILE...+🌸;🎀+YAMELI.exe+ACTIVATED!+🎀" alt="Typing SVG" />
-<br>
-<br>
-<!-- Estadísticas con diseño kawaii arcade -->
-<img src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=ff69b4&bg_color=fff0f5&ring_color=ff69b4&text_color=db7093&icon_color=ff69b4" />
-<!-- Lenguajes con diseño pastel -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=ff69b4&bg_color=fff0f5&text_color=db7093" />
-<!-- Separador animado con corazones -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- Skill Badges con estilo pastel -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql&theme=light" />
-</p>
-<!-- Barra de Power Level estilo kawaii -->
-```diff
-🎮 MAGICAL POWER LEVELS! 🌟
-```
-<!-- Progress Bars con animación y emojis kawaii -->
-<div align="left">
-```diff
-🎀 Frontend Development   
-████████░░ Advanced [80%] ✨
-🌸 Backend Development    
-██████░░░░ Skilled [60%] 💫
-🌟 Database Management   
-██████████ Expert [100%] 💝
-🎮 DevOps                
-████░░░░░░ Basic [40%] 🌺
-```
+<!-- Header con estilo limpio -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+coding+space+✦;⋆+Building+digital+dreams+⋆;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" />
+
+<!-- Stats Cards con diseño minimalista -->
+<div style="display: flex; justify-content: center; gap: 10px;">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&title_color=FF66B2&icon_color=FF66B2&text_color=2F2F2F&bg_color=FFFFFF&border_color=FF66B2" />
+<img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&hide_title=true&title_color=FF66B2&text_color=2F2F2F&bg_color=FFFFFF&border_color=FF66B2" />
 </div>
-<!-- Separador animado -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- Sección de conexión con estilo kawaii arcade -->
+
+<!-- Separador elegante -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
+
+<!-- Technology Stack con íconos limpios -->
+<h3 align="center">⋆｡°✩ Technology Stack ✩°｡⋆</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
+</p>
+
+<!-- Progress Bars con estilo elegante -->
 ```diff
-[ 🌟 LET'S CONNECT AND PLAY! 🌟 ]
+⋆ DEVELOPMENT SKILLS ⋆
+
+Frontend Development    ⋆⋆⋆⋆⋆⋆⋆⋆⋆░  Advanced [80%]
+Backend Development    ⋆⋆⋆⋆⋆⋆⋆░░░  Skilled [60%]
+Database Management   ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆  Expert [100%]
+DevOps               ⋆⋆⋆⋆░░░░░░  Basic [40%]
 ```
+
+<!-- Separador elegante -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
+
+<!-- Conexiones con diseño minimalista -->
+<h3 align="center">⋆｡°✩ Let's Connect ✩°｡⋆</h3>
 <p align="center">
   <a href="https://github.com/yvmeli">
-    <img src="https://img.shields.io/badge/GITHUB-JOIN_PARTY-ff69b4?style=for-the-badge&logo=github&logoColor=ff69b4&labelColor=fff0f5"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yameli">
-    <img src="https://img.shields.io/badge/LINKEDIN-CO--OP_PLAY-ff69b4?style=for-the-badge&logo=linkedin&logoColor=ff69b4&labelColor=fff0f5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-<!-- Sección secreta con animación kawaii -->
+
+<!-- Sección especial con estilo elegante -->
 <details>
-<summary>🎀 PRESS START TO UNLOCK MAGICAL INFO ✨</summary>
+<summary>✧ Click here for a special message ✧</summary>
 <br>
 ```diff
-🏆 SPECIAL ACHIEVEMENT UNLOCKED!
-🌟 Character Class: Magical Code Princess
-✨ Special Skills: Sparkly Speed Coding
-🎮 Current Quest: Enchanting New Technologies
-🌸 Party Status: Seeking Magical Team Adventures
+✧ Profile Status: Active
+✦ Current Quest: Exploring New Technologies
+❀ Special Skills: Full Stack Development
+⋆ Looking for: Exciting Collaborations
 ```
 </details>
-<!-- Footer con animación -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=tilt"/>
+
+<!-- Footer elegante -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF66B2&height=100&section=footer"/>
 </div>
