@@ -18,7 +18,9 @@
   </div>
 
   <!-- Separador dinámico -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px;">
+  <!-- Separación con sombra suave -->
+<div style="border-bottom: 2px solid #FF66B2; width: 50%; margin: 30px auto;"></div>
+
 
   <!-- Conexiones con diseño minimalista -->
   <h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
