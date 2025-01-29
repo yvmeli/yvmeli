@@ -29,7 +29,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Conexiones con diseño minimalista -->
-<h3 align="center">⋆｡°✩ Let's Connect ✩°｡⋆</h3>
+<h3 align="center">⋆｡°✩ Let's connect ✩°｡⋆</h3>
 <p align="center">
   <a href="https://github.com/yvmeli">
     <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white"/>
@@ -38,19 +38,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<!-- Sección especial con estilo elegante -->
-<details>
-<summary>✧ Click here for a special message ✧</summary>
-<br>
-```diff
-✧ Profile Status: Active
-✦ Current Quest: Exploring New Technologies
-❀ Special Skills: Full Stack Development
-⋆ Looking for: Exciting Collaborations
-```
-</details>
-
-<!-- Footer elegante -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF66B2&height=100&section=footer"/>
-</div>
