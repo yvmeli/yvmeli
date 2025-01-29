@@ -2,7 +2,7 @@
 
 ```
 ╔═══*.·:·.☽✧ HELLO WORLD! ✧☾.·:·.*═══╗
-      Software developer
+      Software developer student
 ╚════════════════ ♢ ════════════════╝
 ```
 
