@@ -1,7 +1,5 @@
 # Hey! I'm Yameli! :D
 
----
-
 ## Yameli's GitHub Stats  
 <div style="display: flex; justify-content: center;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
