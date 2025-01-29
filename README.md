@@ -1,13 +1,7 @@
 ## Hey! I'm Yameli :wave:
 
-Welcome to my GitHub profile! Here's a bit about me and the tech I work with.
-
-<!-- Introductory Text -->
-I am a passionate developer who loves working with various technologies to solve problems and create innovative solutions. Currently, I'm diving deep into full-stack development, and I enjoy learning new things every day!
-
 <!-- Animated Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=radical&hide_title=true)
 
 <!-- Tech Stack -->
