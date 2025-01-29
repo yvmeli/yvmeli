@@ -18,10 +18,8 @@
   </div>
 
   <!-- Separador dinámico -->
-  <!-- Separación con sombra suave -->
-<!-- Separación con sombra suave -->
-  <!-- Línea separadora más sutil -->
-<hr style="border: 1px solid #FF66B2; width: 50%; margin: 30px auto;">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px;">
+
 
 
 
