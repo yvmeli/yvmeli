@@ -1,42 +1,51 @@
-<div align="center" style="font-family: 'Arial', sans-serif; color: #FFF;">
+<div align="center" style="font-family: 'Arial', sans-serif; color: #333; background-color: #f4f4f9; padding: 40px 20px;">
 
-  <!-- Header con estilo limpio y dinámico -->
-  <div style="background: linear-gradient(45deg, #FF66B2, #00FF66); padding: 40px 20px; border-radius: 10px; width: 80%; margin-bottom: 30px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+coding+space+✦;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" style="font-size: 1.8em;"/>
+  <!-- Encabezado con una presentación impactante -->
+  <div style="background: linear-gradient(135deg, #6e7dff, #00c6ff); padding: 40px 30px; border-radius: 12px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1); width: 80%; max-width: 900px; margin-bottom: 50px;">
+    <h1 style="font-size: 2.5em; color: white; font-weight: bold; text-align: center; letter-spacing: 2px;">Welcome to My Coding Space</h1>
+    <p style="font-size: 1.2em; color: white; text-align: center;">YAMELI.exe is running... 🚀</p>
   </div>
 
-  <!-- Estadísticas con diseño moderno y efecto de sombra -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-    <div style="box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); border-radius: 10px;">
-      <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
+  <!-- Estadísticas con una caja moderna y elegante -->
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 50px;">
+    <div style="background-color: #fff; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); flex: 1; min-width: 350px; text-align: center;">
+      <h3 style="font-size: 1.5em; color: #333;">GitHub Stats</h3>
+      <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical&border_color=e100ff&bg_color=ffffff&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
     </div>
-    <div style="box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2); border-radius: 10px;">
-      <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00&card_width=450" />
+    <div style="background-color: #fff; border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); flex: 1; min-width: 350px; text-align: center;">
+      <h3 style="font-size: 1.5em; color: #333;">Top Languages</h3>
+      <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=radical&hide_title=true&border_color=e100ff&bg_color=ffffff&text_color=00ff00&card_width=450" />
     </div>
   </div>
 
-  <!-- Technology Stack con íconos estilizados y transiciones -->
-  <div align="center" style="margin-bottom: 30px;">
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    </p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+development+%E2%9C%A7+Advanced;Backend+development+%E2%9C%A7+Skilled+developer;Database+management+%E2%9C%A7+Expert+level;DevOps+%E2%9C%A7+Growing+skills" alt="Skills Typing SVG" style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);"/>
+  <!-- Tecnología Stack con íconos y detalles dinámicos -->
+  <div style="margin-bottom: 50px;">
+    <h2 style="font-size: 2em; color: #333; margin-bottom: 20px;">Tech Stack</h2>
+    <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" alt="Tech Stack Icons" style="width: 60px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    </div>
   </div>
 
-  <!-- Separador dinámico con animación -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px; border-radius: 10px; box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);">
+  <!-- Conexiones con estilo limpio y atractivo -->
+  <div style="background-color: #ffffff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); margin-bottom: 30px; width: 80%; max-width: 900px;">
+    <h2 style="font-size: 2em; color: #333; text-align: center;">Let's Connect</h2>
+    <p style="text-align: center; font-size: 1.2em; color: #555;">Feel free to reach out on these platforms:</p>
+    <div style="text-align: center;">
+      <a href="https://github.com/yvmeli" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GitHub-Profile-6e7dff?style=flat-square&logo=github&logoColor=white" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      </a>
+      <a href="https://linkedin.com/in/yameli" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-00c6ff?style=flat-square&logo=linkedin&logoColor=white" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+      </a>
+    </div>
+  </div>
 
-  <!-- Conexiones con diseño minimalista y animaciones -->
-  <h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px; transition: color 0.3s ease-in-out;" onmouseover="this.style.color='#00FF66'" onmouseout="this.style.color='#FF66B2'">⋆｡°✩ Let's connect ✩°｡⋆</h3>
-  <p align="center" style="font-size: 1.1em;">
-    <a href="https://github.com/yvmeli" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white" style="margin: 0 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-    <a href="https://linkedin.com/in/yameli" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white" style="margin: 0 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-    </a>
-  </p>
+  <!-- Separador con animación de carga -->
+  <div style="text-align: center; margin-bottom: 40px;">
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+  </div>
 
 </div>
+
 
 
