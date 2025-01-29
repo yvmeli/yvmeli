@@ -6,10 +6,10 @@
     <p style="font-size: 1.2em; color: white;">Your coding space, powered by innovation.</p>
   </div>
 
-  <!-- Estadísticas compactas y visuales -->
-  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 30px;">
-    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&theme=radical&border_color=e100ff&bg_color=ffffff&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
-    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=radical&hide_title=true&border_color=e100ff&bg_color=ffffff&text_color=00ff00&card_width=450" />
+  <!-- Estadísticas alineadas y de igual tamaño -->
+  <div style="display: flex; justify-content: space-around; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
+    <img width="380" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&theme=radical&border_color=e100ff&bg_color=ffffff&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
+    <img width="380" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=radical&hide_title=true&border_color=e100ff&bg_color=ffffff&text_color=00ff00&card_width=450" />
   </div>
 
   <!-- Conexiones rápidas -->
@@ -22,10 +22,11 @@
     </a>
   </div>
 
-  <!-- Animación ligera para separar -->
+  <!-- Separador Animado -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 40px;" />
   
 </div>
+
 
 
 
