@@ -19,7 +19,9 @@
 
   <!-- Separador dinámico -->
   <!-- Separación con sombra suave -->
-<div style="border-bottom: 2px solid #FF66B2; width: 50%; margin: 30px auto;"></div>
+<!-- Separación con sombra suave -->
+  <div style="border-bottom: 2px solid #FF66B2; width: 50%; margin: 30px auto;"></div>
+
 
 
   <!-- Conexiones con diseño minimalista -->
