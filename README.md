@@ -5,7 +5,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00" />
 </div>
   
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
 </p>
 <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
