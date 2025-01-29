@@ -16,12 +16,15 @@
 ---
 
 ## 📬 Let's Connect!  
-<p style="font-size: 1.1em;">
-  <a href="https://github.com/yvmeli" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white" style="margin: 0 10px;"/>
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://github.com/yvmeli" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yameli" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white" style="margin: 0 10px;"/>
+  <a href="https://linkedin.com/in/yameli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+  <a href="mailto:yameli1715@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
