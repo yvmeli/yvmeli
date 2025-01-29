@@ -11,11 +11,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Technology Stack con íconos limpios -->
-<h3 align="center">⋆｡°✩ Technology Stack ✩°｡⋆</h3>
+<h3 align="center">⋆｡°✩ Technology stack ✩°｡⋆</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
 </p>
-
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
