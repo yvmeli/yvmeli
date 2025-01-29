@@ -20,9 +20,9 @@
 
 
 <!-- Progress Bars con estilo elegante -->
-```diff
-⋆ DEVELOPMENT SKILLS ⋆
+<h3 align="center">⋆｡°✩ Development skills ✩°｡⋆</h3>
 
+```diff
 Frontend Development    ⋆⋆⋆⋆⋆⋆⋆⋆⋆░  Advanced [80%]
 Backend Development    ⋆⋆⋆⋆⋆⋆⋆░░░  Skilled [60%]
 Database Management   ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆  Expert [100%]
