@@ -1,92 +1,76 @@
 <div align="center">
-  
-```ascii
-    _    _           _ _                 
-   | |  | |         | (_)                
-   | |__| | ___ _   | |_  ___  _ __ ___  
-   |  __  |/ _ \ | | | | / _ \| '_ ` _ \ 
-   | |  | |  __/ |_| | | (_) | | | | | |
-   |_|  |_|\___|\__, |_|\___/|_| |_| |_|
-                 __/ |                    
-                |___/                     
+
+```
+╔═══*.·:·.☽✧    PLAYER 1    ✧☾.·:·.*═══╗
+           YAMELI LOADED...
+╚════════════════ ♢ ════════════════╝
 ```
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+```
+LOADING STATS...
+█████████████████████████████ 100%
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00" />
+
+```
+SELECT YOUR WEAPONS
+```
+
+<div align="left">
+
+```diff
++ HTML5        [ LEVEL 99 ]  ████████████ 
++ CSS3         [ LEVEL 95 ]  ███████████░ 
++ JavaScript   [ LEVEL 90 ]  ██████████░░ 
++ Python       [ LEVEL 85 ]  █████████░░░ 
++ C#           [ LEVEL 80 ]  ████████░░░░ 
++ .NET         [ LEVEL 75 ]  ███████░░░░░ 
++ SQL          [ LEVEL 70 ]  ██████░░░░░░ 
+```
+
 </div>
 
-<table align="center">
+```
+✧ CONNECT WITH ME TO START MULTIPLAYER ✧
+```
+
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true" />
-    </td>
+    <td><img src="https://img.shields.io/badge/GitHub-yvmeli-00ff00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></td>
+    <td><img src="https://img.shields.io/badge/LinkedIn-yameli-00ff00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></td>
   </tr>
 </table>
 
-<div align="center">
-
-```ascii
-╔══════════════════════ TECH STACK ══════════════════════╗
-║                                                        ║
-║  ⚡ HTML5  ⚡ CSS3  ⚡ JavaScript  ⚡ Python  ⚡ C#    ║
-║           ⚡ .NET  ⚡ SQL                              ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
 ```
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405F.svg?style=for-the-badge&logo=sql&logoColor=white)
-
-```ascii
-┌─────────────── CONNECT WITH ME ───────────────┐
-│                                               │
-│  🌐 GitHub:   @yvmeli                        │
-│  💼 LinkedIn: @yameli                        │
-│  ✉️  Email:    yvmeli@example.com            │
-│                                               │
-└───────────────────────────────────────────────┘
+［ＳＥＣＲＥＴ　ＬＥＶＥＬ］
 ```
 
 <details>
-<summary>🎮 Fun Fact</summary>
-<br>
-<div align="center">
-  
-```ascii
-╭───────────────────────────────────────╮
-│ I once built a whole web app in 48    │
-│ hours just for fun!                   │
-│ (I call it my "speed-dev" project)    │
-│                                       │
-│ Let's just say, I'm all about         │
-│ problem-solving with a sense of       │
-│ adventure. 🚀                         │
-╰───────────────────────────────────────╯
+<summary>🎮 PRESS START TO REVEAL</summary>
+
+```
+Achievement Unlocked: Speed Developer 🏆
+Built a web app in 48h - New High Score!
 ```
 
-</div>
 </details>
 
-<br>
+```
+［ＬＯＡＤＩＮＧ　ＱＵＯＴＥ．．．］
 
-<div align="center">
-
-```ascii
-╔════════════════════════════════════════════════╗
-║  "The best way to predict the future           ║
-║   is to invent it."                           ║
-║                            — Alan Kay          ║
-╚════════════════════════════════════════════════╝
+"The best way to predict the future 
+is to invent it." 
+        — Alan Kay
+［ＱＵＯＴＥ　ＬＯＡＤＥＤ　１００％］
 ```
 
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_gif/Rainbow.gif" width="100%">
+```
+✧ INSERT COIN TO CONTINUE ✧
+```
 
 </div>
