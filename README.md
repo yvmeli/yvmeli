@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- Header con estilo limpio -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+coding+space+✦;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" />
 <br>
