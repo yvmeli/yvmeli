@@ -12,7 +12,7 @@
     </p>
     <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
   </div>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px;">
+  
 <h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
 <p align="center" style="font-size: 1.1em;">
   <a href="https://github.com/yvmeli" style="text-decoration: none;">
