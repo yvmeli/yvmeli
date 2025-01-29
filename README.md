@@ -8,7 +8,7 @@
 ---
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,kali" />
 </p>
 
 <p style="font-size: 18px; color: #FF66B2;">Frontend & Backend Development | Database Management | DevOps</p>
