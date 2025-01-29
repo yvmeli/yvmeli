@@ -8,7 +8,7 @@
 <img width="450" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00&card_width=450" />
 
 <!-- Separador elegante -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Technology Stack con íconos limpios -->
 <h3 align="center">⋆｡°✩ Technology Stack ✩°｡⋆</h3>
