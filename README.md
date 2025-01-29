@@ -14,7 +14,7 @@
     <p align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
     </p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+development+%E2%9C%A7+Advanced;Backend+development+%E2%9C%A7+Skilled+developer;Database+management+%E2%9C%A7+Expert+level;DevOps+%E2%9C%A7+Growing+skills" alt="Skills Typing SVG"/>
+    <p style="font-size: 18px; color: #FF66B2;">Frontend & Backend Development | Database Management | DevOps</p>
   </div>
 
   <!-- Separador dinámico -->
@@ -32,6 +32,7 @@
   </p>
 
 </div>
+
 
 
 
