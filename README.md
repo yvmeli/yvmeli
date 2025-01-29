@@ -22,12 +22,9 @@
 <!-- Progress Bars con estilo elegante -->
 <h3 align="center">⋆｡°✩ Development skills ✩°｡⋆</h3>
 
-```diff
-Frontend Development    ⋆⋆⋆⋆⋆⋆⋆⋆⋆░  Advanced [80%]
-Backend Development    ⋆⋆⋆⋆⋆⋆⋆░░░  Skilled [60%]
-Database Management   ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆  Expert [100%]
-DevOps               ⋆⋆⋆⋆░░░░░░  Basic [40%]
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+Development+%7C+Advanced+%5B80%25%5D;Backend+Development+%7C+Skilled+%5B60%25%5D;Database+Management+%7C+Expert+%5B100%25%5D;DevOps+%7C+Basic+%5B40%25%5D" alt="Skills Typing SVG"/>
+</div>
 
 <!-- Separador elegante -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pink.png" width="100%">
