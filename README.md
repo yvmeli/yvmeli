@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+Kirby+coding+space+✦;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" style="margin-bottom: 30px;"/>
 
   <!-- Kirby GIF como separador divertido -->
-  <img src="https://media.giphy.com/media/XYjINR2pzzfCo/giphy.gif" width="100" style="margin-bottom: 30px;"/>
+  <img src="https://media.giphy.com/media/RlM3eMjiVrAhs/giphy.gif" width="100" style="margin-bottom: 30px;"/>
 
   <!-- Estadísticas con diseño arcade -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -35,7 +35,7 @@
   </p>
 
   <!-- GIF adicional de Kirby para darle un toque divertido -->
-  <img src="https://media.giphy.com/media/3o6Zt7BuCmfN55iLxu/giphy.gif" width="150" style="margin-top: 30px;"/>
+  <img src="https://media.giphy.com/media/mqlDmeBYdOLlo/giphy.gif" width="150" style="margin-top: 30px;"/>
 
 </div>
 
