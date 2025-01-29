@@ -4,10 +4,7 @@
 
 <br>
 
-```
-⚡ Software Developer Student ⚡
-[ Starting New Adventure... ]
-```
+<h1>Hey! I'm Yameli</h1>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
