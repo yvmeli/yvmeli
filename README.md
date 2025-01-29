@@ -11,19 +11,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Technology Stack con íconos limpios -->
-<h3 align="center">⋆｡°✩ Technology stack ✩°｡⋆</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
-</p>
-<br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<!-- Progress Bars con estilo elegante -->
-<h3 align="center">⋆｡°✩ Development skills ✩°｡⋆</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+Development+%7C+Advanced+%5B80%25%5D;Backend+Development+%7C+Skilled+%5B60%25%5D;Database+Management+%7C+Expert+%5B100%25%5D;DevOps+%7C+Basic+%5B40%25%5D" alt="Skills Typing SVG"/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
+  </p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+Development+%E2%9C%A7+Advanced+Developer;Backend+Development+%E2%9C%A7+Skilled+Developer;Database+Management+%E2%9C%A7+Expert+Level;DevOps+%E2%9C%A7+Growing+Skills" alt="Skills Typing SVG"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
