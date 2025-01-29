@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-╔═══*.·:·.☽✧    PLAYER 1    ✧☾.·:·.*═══╗
-           YAMELI LOADED...
+╔═══*.·:·.☽✧ HELLO WORLD! ✧☾.·:·.*═══╗
+      Software Developer & Tech Enthusiast
 ╚════════════════ ♢ ════════════════╝
 ```
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ```
-LOADING STATS...
+LOADING EXPERIENCE...
 █████████████████████████████ 100%
 ```
 
@@ -18,25 +18,25 @@ LOADING STATS...
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00" />
 
 ```
-SELECT YOUR WEAPONS
+TECH SKILLS UNLOCKED
 ```
 
 <div align="left">
 
 ```diff
-+ HTML5        [ LEVEL 99 ]  ████████████ 
-+ CSS3         [ LEVEL 95 ]  ███████████░ 
-+ JavaScript   [ LEVEL 90 ]  ██████████░░ 
-+ Python       [ LEVEL 85 ]  █████████░░░ 
-+ C#           [ LEVEL 80 ]  ████████░░░░ 
-+ .NET         [ LEVEL 75 ]  ███████░░░░░ 
-+ SQL          [ LEVEL 70 ]  ██████░░░░░░ 
++ Frontend Development   [ Expert ]     ████████████ 
++ Backend Development   [ Advanced ]    ███████████░ 
++ Database Management   [ Advanced ]    ██████████░░ 
++ Cloud Services        [ Proficient ]  █████████░░░ 
++ System Architecture   [ Proficient ]  ████████░░░░ 
++ DevOps               [ Skilled ]     ███████░░░░░ 
++ Agile Methodologies  [ Skilled ]     ██████░░░░░░ 
 ```
 
 </div>
 
 ```
-✧ CONNECT WITH ME TO START MULTIPLAYER ✧
+✧ LET'S BUILD SOMETHING AMAZING ✧
 ```
 
 <table>
@@ -47,15 +47,16 @@ SELECT YOUR WEAPONS
 </table>
 
 ```
-［ＳＥＣＲＥＴ　ＬＥＶＥＬ］
+［ＡＢＯＵＴ　ＭＥ］
 ```
 
 <details>
-<summary>🎮 PRESS START TO REVEAL</summary>
+<summary>🎮 Click to Know More</summary>
 
 ```
-Achievement Unlocked: Speed Developer 🏆
-Built a web app in 48h - New High Score!
+Passionate developer with a creative approach to problem-solving.
+Always learning, always coding, always pushing the boundaries.
+Currently exploring new technologies and building cool stuff!
 ```
 
 </details>
