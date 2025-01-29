@@ -2,11 +2,9 @@
 
 ```
 ╔═══*.·:·.☽✧ HELLO WORLD! ✧☾.·:·.*═══╗
-      Software Developer & Tech Enthusiast
+      Software developer
 ╚════════════════ ♢ ════════════════╝
 ```
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ```
 LOADING EXPERIENCE...
@@ -24,13 +22,10 @@ TECH SKILLS UNLOCKED
 <div align="left">
 
 ```diff
-+ Frontend Development   [ Expert ]     ████████████ 
-+ Backend Development   [ Advanced ]    ███████████░ 
-+ Database Management   [ Advanced ]    ██████████░░ 
-+ Cloud Services        [ Proficient ]  █████████░░░ 
-+ System Architecture   [ Proficient ]  ████████░░░░ 
-+ DevOps               [ Skilled ]     ███████░░░░░ 
-+ Agile Methodologies  [ Skilled ]     ██████░░░░░░ 
++ Frontend Development   [ Advanced ]    ███████████░ 
++ Backend Development   [ Skilled ]     ████████░░░░ 
++ Database Management   [ Expert ]      ████████████ 
++ DevOps               [ Basic ]       ██████░░░░░░ 
 ```
 
 </div>
