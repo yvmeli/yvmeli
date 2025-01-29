@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+space!;Coding+with+passion+💻" alt="Typing SVG" style="margin-bottom: 30px;"/>
   
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
-    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&hide_title=true&theme=radical&border_color=FF66B2&bg_color=000000&text_color=ffffff&icon_color=FF66B2" />
-    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=radical&hide_title=true&border_color=FF66B2&bg_color=000000&text_color=ffffff&card_width=450" />
+    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
+    <img width="400" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00&card_width=450" />
   </div>
 
   <p>
