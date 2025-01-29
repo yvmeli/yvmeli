@@ -7,16 +7,13 @@
 <img width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
 <img width="450" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00&card_width=450" />
 
-<!-- Separador elegante -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <!-- Technology Stack con íconos limpios -->
 <div align="center">
   <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
   </p>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+Development+%E2%9C%A7+Advanced+Developer;Backend+Development+%E2%9C%A7+Skilled+Developer;Database+Management+%E2%9C%A7+Expert+Level;DevOps+%E2%9C%A7+Growing+Skills" alt="Skills Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF66B2&center=true&vCenter=true&width=435&lines=Frontend+development+%E2%9C%A7+Advanced+developer;Backend+development+%E2%9C%A7+Skilled+developer;Database+management+%E2%9C%A7+Expert+level;DevOps+%E2%9C%A7+Growing+skills" alt="Skills Typing SVG"/>
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
