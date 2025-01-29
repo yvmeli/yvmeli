@@ -20,10 +20,6 @@
   <!-- Separador dinámico -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="margin-bottom: 30px;">
 
-
-
-
-
   <!-- Conexiones con diseño minimalista -->
   <!-- Conexiones con íconos de redes sociales -->
 <h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
@@ -35,10 +31,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF66B2?style=flat-square&logo=linkedin&logoColor=white" style="margin: 0 10px;"/>
   </a>
 </p>
-
-
-
-
-
-
-
