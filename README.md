@@ -20,7 +20,9 @@
   <!-- Separador dinámico -->
   <!-- Separación con sombra suave -->
 <!-- Separación con sombra suave -->
-  <div style="border-bottom: 2px solid #FF66B2; width: 50%; margin: 30px auto;"></div>
+  <!-- Línea separadora más sutil -->
+<hr style="border: 1px solid #FF66B2; width: 50%; margin: 30px auto;">
+
 
 
 
