@@ -3,8 +3,8 @@
   <!-- Header con estilo y diseño de Kirby comiéndose las letras -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=500&lines=✦+Welcome+to+my+Kirby+coding+space+✦;❀+YAMELI.exe+is+running...+❀" alt="Typing SVG" style="margin-bottom: 30px;"/>
 
-  <!-- GIF de Kirby comiéndose el texto (imitando el estilo de "comer" las letras) -->
-  <img src="https://media.giphy.com/media/9FfBTh93ekAjG/giphy.gif" width="200" style="margin-bottom: 30px;" />
+  <!-- GIF de Kirby (nuevo enlace) -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9p5rt3s/giphy.gif" width="200" style="margin-bottom: 30px;" />
 
   <!-- Estadísticas con un diseño arcade y toque Kirby -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -35,9 +35,10 @@
   </p>
 
   <!-- GIF adicional de Kirby interactuando con el contenido -->
-  <img src="https://media.giphy.com/media/2vEZmP8gkoy1w/giphy.gif" width="150" style="margin-top: 30px;"/>
+  <img src="https://media.giphy.com/media/wQ5VIEI2gSCn6/giphy.gif" width="150" style="margin-top: 30px;"/>
 
 </div>
+
 
 
 
