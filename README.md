@@ -60,17 +60,4 @@ Built a web app in 48h - New High Score!
 
 </details>
 
-```
-［ＬＯＡＤＩＮＧ　ＱＵＯＴＥ．．．］
-
-"The best way to predict the future 
-is to invent it." 
-        — Alan Kay
-［ＱＵＯＴＥ　ＬＯＡＤＥＤ　１００％］
-```
-
-```
-✧ INSERT COIN TO CONTINUE ✧
-```
-
 </div>
