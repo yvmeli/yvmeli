@@ -6,7 +6,7 @@
 </div>
   
   
-  <div align="center" style="margin-bottom: 30px;">
+  <div align="center" style="margin-bottom: 30px; margin-top: 30px;">
     <p align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql" />
     </p>
