@@ -10,7 +10,7 @@
 </p>
 <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
   
-<h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">⋆｡°✩ Let's connect ✩°｡⋆</h3>
+<h3 align="center" style="font-size: 1.6em; font-weight: bold; color: #FF66B2; margin-bottom: 20px;">Let's connect!</h3>
 <p align="center" style="font-size: 1.1em;">
   <a href="https://github.com/yvmeli" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-Profile-FF66B2?style=flat-square&logo=github&logoColor=white" style="margin: 0 10px;"/>
