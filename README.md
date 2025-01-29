@@ -35,8 +35,9 @@
   </p>
 
   <!-- GIF adicional de Kirby interactuando con el contenido -->
-  <img src="https://media.giphy.com/media/kiY4xxZ6s8gYc/giphy.gif" width="150" style="margin-top: 30px;"/>
+  <img src="https://media.giphy.com/media/2vEZmP8gkoy1w/giphy.gif" width="150" style="margin-top: 30px;"/>
 
 </div>
+
 
 
