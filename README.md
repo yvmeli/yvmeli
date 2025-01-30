@@ -16,6 +16,7 @@
 <p style="font-size: 18px; color: #FF66B2;">Frontend & backend development | Database management | DevOps</p>
 
 ---
+</div>
 
 ## 📬 Let's connect!  
 <div style="display: flex; justify-content: center; gap: 15px;">
@@ -29,4 +30,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
-</div>
+
