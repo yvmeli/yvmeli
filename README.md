@@ -15,7 +15,7 @@
 
 ---
 
-## 📬 Let's Connect!  
+## 📬 Let's connect!  
 <div style="display: flex; justify-content: center; gap: 15px;">
   <a href="https://github.com/yvmeli" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
