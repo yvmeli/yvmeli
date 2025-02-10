@@ -32,7 +32,6 @@
   <a href="https://www.hackerrank.com/profile/yameli" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  [![Codedex](https://img.shields.io/badge/Codedex-6F42C1?style=for-the-badge&logo=code&logoColor=white)](https://www.codedex.io/@ymt)
 </p>
 
 ---
