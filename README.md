@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode"/>
+  <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode" height="100px"/>
 </p>
 
 
