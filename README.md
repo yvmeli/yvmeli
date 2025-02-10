@@ -33,8 +33,4 @@
   </a>
 </div>
 </div>
-
----
-
-## #30NitesOfCode:
-  <div align="center"> <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode"/> </div>
+<div align="center"> <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode"/> </div>
