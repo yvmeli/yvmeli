@@ -1,8 +1,8 @@
 # Hey! I'm Yameli! :D
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=e100ff&bg_color=000000&ring_color=00ff00&text_color=00ff00&icon_color=e100ff" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=e100ff&bg_color=000000&text_color=00ff00" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=synthwave&border_color=ff00ff&bg_color=0a0a0a&ring_color=ff66b2&text_color=ffccff&icon_color=ff66b2" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=synthwave&hide_title=true&border_color=ff00ff&bg_color=0a0a0a&text_color=ffccff" />
 </p>
 
 ---
