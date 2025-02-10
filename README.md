@@ -17,7 +17,7 @@
 
 ---
 
-## 📬 Let's connect!  
+<h2 align="center">📬 Let's connect!</h2>
 
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
@@ -36,10 +36,16 @@
 
 ---
 
-## 🌙 #30NitesOfCode  
-📌 [Check out my progress!](https://www.codedex.io/@ymt/30-nites-of-code)
+<h2 align="center">🌙 #30NitesOfCode</h2>
+
+<p align="center">
+  <a href="https://www.codedex.io/@ymt/30-nites-of-code" target="_blank">
+    <b>📌 Check out my progress!</b>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode"/>
 </p>
+
 
