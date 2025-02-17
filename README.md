@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" style="font-size: 18px; color: #FF66B2;">
-  Frontend & backend development | Database management | DevOps
+  Frontend & backend development | Database management
 </p>
 
 ---
