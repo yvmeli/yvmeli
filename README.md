@@ -1,40 +1,16 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey! I'm Yameli!
-
-<div align="center">
-  
-```console
-yameli@github:~$ whoami
-Developer passionate about Python, C#, JavaScript and more.
-Enthusiast of continuous learning and technological innovation.
-
-yameli@github:~$ ./show_stats.sh
-```
-
+# Hey! I'm Yameli! :D
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=tokyonight&hide_title=true&border_color=800080&bg_color=0d1117&text_color=dda0dd" />
 </p>
-
-```console
-yameli@github:~$ ./list_skills.sh
-```
-
+---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,kali,mongodb,nodejs,php,postgres,visualstudio,vscode,bootstrap" />
 </p>
-
-```console
-yameli@github:~$ cat specialties.txt
-```
-
 <p align="center" style="font-size: 18px; color: #FF66B2;">
   Frontend & backend development | Database management
 </p>
-
-```console
-yameli@github:~$ ./connect.sh
-```
-
+---
 <h2 align="center">📬 Let's connect!</h2>
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
@@ -53,16 +29,5 @@ yameli@github:~$ ./connect.sh
     <img src="https://img.shields.io/badge/Codedex-6F42C1?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
-
-```console
-yameli@github:~$ ./show_badges.sh
-```
-
 <p align="center">
   <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode" height="100px"/>
-</p>
-
-```console
-yameli@github:~$ _
-```
-</div>
