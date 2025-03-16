@@ -10,7 +10,7 @@
 <p align="center" style="font-size: 18px; color: #FF66B2;">
   Frontend & backend development | Database management
 </p>
-
+---
 <h2 align="center">📬 Let's connect!</h2>
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
