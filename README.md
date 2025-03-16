@@ -3,14 +3,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=tokyonight&hide_title=true&border_color=800080&bg_color=0d1117&text_color=dda0dd" />
 </p>
----
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,kali,mongodb,nodejs,php,postgres,visualstudio,vscode,bootstrap" />
 </p>
 <p align="center" style="font-size: 18px; color: #FF66B2;">
   Frontend & backend development | Database management
 </p>
----
+
 <h2 align="center">📬 Let's connect!</h2>
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
