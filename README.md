@@ -1,32 +1,40 @@
-# Hey! I'm Yameli 👋
+# Hey! I'm Yameli 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66B2&center=true&vCenter=true&width=500&lines=Software+Developer;Fullstack+Engineer;Database+Management;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66B2&center=true&vCenter=true&width=600&lines=Software+Developer;Fullstack+Engineer;Database+Management;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me  
 
-- Passionate about **software development**, **databases**, and **cybersecurity**.
-- Experienced in **frontend & backend** technologies.
-- Always learning new **tech stacks** and improving problem-solving skills.
+- Passionate about **software development**, **databases**, and **cybersecurity**.  
+- Experienced in **frontend & backend** technologies.  
+- Always learning new **tech stacks** and improving problem-solving skills.  
 
----
+💻 **Currently working on:**  
+- Enhancing my **React.js & Node.js** projects.  
+- Exploring **DevOps & cloud technologies**.  
 
-## Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,kali,mongodb,nodejs,php,postgres,visualstudio,vscode,bootstrap" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvmeli&theme=tokyonight&hide_border=true&background=0d1117&ring=aa00ff&fire=ff66b2&currStreakLabel=dda0dd" />
-</p>
+🛠 **Skills I'm improving:**  
+- Deepening my knowledge in **data structures & algorithms**.  
+- Security best practices in **web development**.  
 
 ---
 
-## GitHub Activity
+## 🔧 Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,dotnet,mysql,mongodb,nodejs,php,postgres,bootstrap,kali,vscode,visualstudio" />
+</p>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=yvmeli&theme=tokyonight&hide_border=true&background=0d1117&ring=aa00ff&fire=ff66b2&currStreakLabel=dda0dd" />
+</p>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
@@ -39,7 +47,7 @@
 
 ---
 
-## Connect With Me
+## 🌎 Let's Connect!  
 
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
@@ -65,4 +73,4 @@
 
 ---
 
-#### *Currently coding while listening to Lo-Fi music 🎶*
+🎧 *Coding while listening to Lo-Fi beats...*  
