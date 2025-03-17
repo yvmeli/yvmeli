@@ -1,7 +1,5 @@
-# Hey! I'm Yameli 👋  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66B2&center=true&vCenter=true&width=450&lines=Software+Developer;Fullstack+Engineer;Database+Management;Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66B2&center=true&vCenter=true&width=450&lines=Hey!+I'm+Yameli+%3AD" />
 </p>
 
 <p align="center">
