@@ -5,12 +5,24 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yvmeli/yvmeli/main/assets/line.gif" width="80%" />
+</p>
+
+<p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=tokyonight&hide_title=true&border_color=800080&bg_color=0d1117&text_color=dda0dd" />
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yvmeli/yvmeli/main/assets/line.gif" width="80%" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,dotnet,mysql,mongodb,nodejs,php,postgres,kali" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yvmeli/yvmeli/main/assets/line.gif" width="80%" />
 </p>
 
 <p align="center">
