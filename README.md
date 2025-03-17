@@ -1,22 +1,29 @@
-# Hey! I'm Yameli! :D
+# 🌸 Hey! I'm Yameli! ✨
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF66B2&center=true&vCenter=true&width=500&lines=Software+Developer;Fullstack+Engineer;Database+Management;Cybersecurity+Enthusiast" />
+</p>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvmeli&layout=compact&theme=tokyonight&hide_title=true&border_color=800080&bg_color=0d1117&text_color=dda0dd" />
 </p>
 
-<hr style="border-top: 1px solid #333; margin-top: 20px; margin-bottom: 20px">
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,kali,mongodb,nodejs,php,postgres,visualstudio,vscode,bootstrap" />
-</p>
-<p align="center" style="font-size: 18px; color: #FF66B2;">
-  Frontend & backend development | Database management
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cs,dotnet,mysql,mongodb,nodejs,php,postgres,bootstrap,kali,vscode,visualstudio" />
 </p>
 
-<hr style="border-top: 1px solid #333; margin-top: 20px; margin-bottom: 20px">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yvmeli&theme=tokyo-night&bg_color=0d1117&color=dd99ff&line=ff66b2&point=ff66b2" />
+</p>
 
-<h2 align="center">👋 Let's connect!</h2>
+---
+
+## 🌍 Let's Connect!
 
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
@@ -35,6 +42,11 @@
     <img src="https://img.shields.io/badge/Codedex-6F42C1?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://www.codedex.io/api/petStatus?user=ymt" alt="@ymt #30NitesOfCode" height="100px"/>
 </p>
+
+---
+
+🎵 *Fun fact: I'm probably coding while listening to Lo-Fi music!* 🎶
