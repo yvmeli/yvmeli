@@ -1,5 +1,4 @@
 # Hey! I'm Yameli! :D
-<hr style="border-top: 1px solid #333; margin-bottom: 20px">
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yvmeli&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=tokyonight&border_color=800080&bg_color=0d1117&ring_color=aa00ff&text_color=dda0dd&icon_color=aa00ff" />
