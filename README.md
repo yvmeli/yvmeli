@@ -18,7 +18,6 @@
 <hr style="border-top: 1px solid #333; margin-top: 20px; margin-bottom: 20px">
 
 <h2 align="center">👋 Let's connect!</h2>
-<hr style="border-top: 1px solid #333; margin-top: 20px; margin-bottom: 20px">
 
 <p align="center">
   <a href="https://github.com/yvmeli" target="_blank">
