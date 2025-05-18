@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,dotnet,mysql,mongodb,nodejs,php,codepen,kali,arch" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,c,cpp,arch" />
 </p>
 
 <p align="center">
