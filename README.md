@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/yvmeli/yvmeli/main/assets/line.gif" width="80%" />
 </p>
 <p align="center">
-  <a href="https://yvmeli.github.io/yameli/">
+  <a href="https://yameli.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yameli">
