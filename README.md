@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://yameli.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yameli"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/yameli](https://www.linkedin.com/in/yameli-mart%C3%ADnez/)"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yameli1715@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
