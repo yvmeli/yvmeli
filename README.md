@@ -53,14 +53,14 @@
   <tr>
     <td align="center">
       <img
-        height="165"
+        height="100"
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yvmeli&theme=github_dark"
         alt="Languages by repository"
       />
     </td>
     <td align="center">
       <img
-        height="165"
+        height="100"
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yvmeli&theme=github_dark"
         alt="Languages by commits"
       />
