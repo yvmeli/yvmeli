@@ -12,8 +12,6 @@
   alt="Welcome"
 />
 
-<br>
-
 <code>CODE</code>
 &nbsp;·&nbsp;
 <code>DATA</code>
@@ -22,11 +20,7 @@
 &nbsp;·&nbsp;
 <code>CREATIVITY</code>
 
-<br><br>
-
-<sub>「 Turning ideas and data into useful digital solutions. 」</sub>
-
-<br><br>
+<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B91C3C"
@@ -48,7 +42,7 @@
   alt="Technology stack"
 />
 
-<br><br>
+<br>
 
 <sub>
   PROGRAMMING&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -57,7 +51,7 @@
   DEVELOPMENT
 </sub>
 
-<br><br>
+<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B91C3C"
@@ -97,7 +91,7 @@
   PUBLIC REPOSITORIES&nbsp;&nbsp;·&nbsp;&nbsp;LANGUAGE DISTRIBUTION
 </sub>
 
-<br><br>
+<br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B91C3C"
@@ -134,10 +128,6 @@
     alt="Gmail"
   />
 </a>
-
-<br><br>
-
-<sub>「 Build quietly. Let the work speak. 」</sub>
 
 <img
   width="100%"
