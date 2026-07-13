@@ -12,16 +12,6 @@
   alt="Welcome"
 />
 
-<code>CODE</code>
-&nbsp;·&nbsp;
-<code>DATA</code>
-&nbsp;·&nbsp;
-<code>AUTOMATION</code>
-&nbsp;·&nbsp;
-<code>CREATIVITY</code>
-
-<br>
-
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B91C3C"
   width="72%"
@@ -41,15 +31,6 @@
   src="https://skillicons.dev/icons?i=python,js,html,css,php,c,cpp,mysql,mongodb,gcp,git&theme=dark"
   alt="Technology stack"
 />
-
-<br>
-
-<sub>
-  PROGRAMMING&nbsp;&nbsp;·&nbsp;&nbsp;
-  DATABASES&nbsp;&nbsp;·&nbsp;&nbsp;
-  CLOUD&nbsp;&nbsp;·&nbsp;&nbsp;
-  DEVELOPMENT
-</sub>
 
 <br>
 
@@ -86,10 +67,6 @@
     </td>
   </tr>
 </table>
-
-<sub>
-  PUBLIC REPOSITORIES&nbsp;&nbsp;·&nbsp;&nbsp;LANGUAGE DISTRIBUTION
-</sub>
 
 <br>
 
